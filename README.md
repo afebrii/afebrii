@@ -39,10 +39,6 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afebrii&theme=merko&show_icons=true&hide_border=false&count_private=true" alt="Febri's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afebrii&theme=merko&hide_border=false" alt="GitHub Streak" />
 </p>
 
